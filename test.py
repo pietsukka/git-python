@@ -1,3 +1,4 @@
 print ("Hello world")
-print ("moi")
-print ("halo")
+
+input("Press any key.")
+
