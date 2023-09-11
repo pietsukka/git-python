@@ -1,4 +1,4 @@
 print ("Hello world")
-
-input("Press any key.")
-
+userInput = input("Type something and press enter. ")
+print(userInput)
+print("Jesse")
